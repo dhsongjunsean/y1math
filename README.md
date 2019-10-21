@@ -17,4 +17,4 @@ Please contribute! Submit pull requests for
 - anything you feel this repository can be improved
 - please leave any suggestions you have below:
 
-Note: Do not simply copy and paste text/code from other sites. Inappropriate pull requests will be marked as invalid and rejected.
+Note: Do not simply copy and paste text/code from other sites. Inappropriate pull requests will be marked as invalid and rejected after consideration.
